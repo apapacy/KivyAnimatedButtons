@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-31 17:11+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: animatedbuttons.py:141
+#, python-brace-format
+msgid ""
+"[size=20][b]Animated Buttons[/b][/size]\n"
+"\n"
+"[b]Version:[/b] {version}\n"
+"[b]License:[/b] MIT\n"
+"\n"
+"[size=20][b]Developer[/b][/size]\n"
+"\n"
+"[ref=SITE_PROJECT][color={link_color}]Ivanov Yuri[/color][/ref]\n"
+"\n"
+"[b]Source code:[/b] [ref=repo_project_on_github][color={link_color}]GitHub[/"
+"color][/ref]"
+msgstr ""
+
+#: animatedbuttons.py:159
+#, python-format
+msgid "%s"
+msgstr ""
+
+#: animatedbuttons.py:166 libs/uix/kv/license.kv:33
+msgid "MIT LICENSE"
+msgstr ""
+
+#: animatedbuttons.py:207
+msgid "Press Back to Exit"
+msgstr ""
+
+#: libs/uix/kv/navdrawer.kv:79
+msgid "Меню:"
+msgstr ""
+
+#: libs/uix/kv/navdrawer.kv:84
+msgid "Плагины"
+msgstr ""
+
+#: libs/uix/kv/navdrawer.kv:89
+msgid "Язык"
+msgstr ""
+
+#: libs/uix/kv/navdrawer.kv:94
+msgid "Лицензия"
+msgstr ""
+
+#: libs/utils/showplugins.py:32 libs/utils/showplugins.py:51
+msgid "Да"
+msgstr ""
+
+#: libs/utils/showplugins.py:98
+msgid "Нет информации о плагине!"
+msgstr ""
+
+#: libs/utils/showplugins.py:122
+msgid "Нет установленных плагинов!"
+msgstr ""
+
+#: libs/uix/baseclass/basescreen.py:38
+#, python-format
+msgid "Я программирую на [color=%s]%s[/color]"
+msgstr ""

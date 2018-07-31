@@ -1,0 +1,78 @@
+# Copyright (C) 2017 Ivanov Yuri aka HeaTTheatR
+# This file is distributed under the same license as the Kivy package.
+# Ivanov Yuri aka HeaTTheatR <gorodage@gmail.com>, 2017
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-31 17:11+0300\n"
+"PO-Revision-Date: 2017-01-11 15:36+0200\n"
+"Last-Translator: Ivanov Yuri aka HeaTTheatR <gorodage@gmail.com>\n"
+"Language-Team: Ivanov Yuri aka HeaTTheatR <gorodage@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: animatedbuttons.py:141
+#, python-brace-format
+msgid ""
+"[size=20][b]Animated Buttons[/b][/size]\n"
+"\n"
+"[b]Version:[/b] {version}\n"
+"[b]License:[/b] MIT\n"
+"\n"
+"[size=20][b]Developer[/b][/size]\n"
+"\n"
+"[ref=SITE_PROJECT][color={link_color}]Ivanov Yuri[/color][/ref]\n"
+"\n"
+"[b]Source code:[/b] [ref=repo_project_on_github][color={link_color}]GitHub[/"
+"color][/ref]"
+msgstr ""
+
+#: animatedbuttons.py:159
+#, python-format
+msgid "%s"
+msgstr ""
+
+#: animatedbuttons.py:166 libs/uix/kv/license.kv:33
+msgid "MIT LICENSE"
+msgstr ""
+
+#: animatedbuttons.py:207
+msgid "Press Back to Exit"
+msgstr ""
+
+#: libs/uix/kv/navdrawer.kv:79
+msgid "Меню:"
+msgstr "Menu:"
+
+#: libs/uix/kv/navdrawer.kv:84
+msgid "Плагины"
+msgstr "Plugins"
+
+#: libs/uix/kv/navdrawer.kv:89
+msgid "Язык"
+msgstr "Language"
+
+#: libs/uix/kv/navdrawer.kv:94
+msgid "Лицензия"
+msgstr "License"
+
+#: libs/utils/showplugins.py:32 libs/utils/showplugins.py:51
+msgid "Да"
+msgstr "Yes"
+
+#: libs/utils/showplugins.py:98
+msgid "Нет информации о плагине!"
+msgstr "There is no information about the plugin!"
+
+#: libs/utils/showplugins.py:122
+msgid "Нет установленных плагинов!"
+msgstr "No installed plugins!"
+
+#: libs/uix/baseclass/basescreen.py:38
+#, python-format
+msgid "Я программирую на [color=%s]%s[/color]"
+msgstr "I'm programming in [color=%s]%s[/color]"
