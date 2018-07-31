@@ -12,4 +12,4 @@ MIT
 
 КОНТАКТЫ
 --------
-<a href="https://vk.com/kivy_development"><img src="https://raw.githubusercontent.com/HeaTTheatR/VKGroups/master/data/images/kivy_ru.png"></a> <a href="https://habrahabr.ru/users/heattheatr/topics/"><img src="https://raw.githubusercontent.com/HeaTTheatR/VKGroups/master/data/images/kivy_on_habr.png"></a> <a href="kivydevelopment@gmail.com"><img src="https://raw.githubusercontent.com/HeaTTheatR/VKGroups/master/data/images/gmail_new.png"></a>
+<a href="https://vk.com/kivy_development"><img src="https://raw.githubusercontent.com/HeaTTheatR/VKGroups/master/data/images/kivy_ru.png"></a> <a href="https://habr.com/users/heattheatr/topics/"><img src="https://raw.githubusercontent.com/HeaTTheatR/VKGroups/master/data/images/kivy_on_habr.png"></a> <a href="kivydevelopment@gmail.com"><img src="https://raw.githubusercontent.com/HeaTTheatR/VKGroups/master/data/images/gmail_new.png"></a>
